@@ -1,9 +1,9 @@
-# AgeVolt Product Management Marketplace
+# AgeVolt Product Chargers Marketplace
 
-Marketplace pre produktovy manažment, roadmapu, poziadavky, feedback a release pripravu.
+Marketplace pre nabijacky, produkty, cenniky, navody a sluzby okolo nabijacej infrastruktury.
 
-Ma sluzit product ownerom, business ownerom, analytikom a ludom, ktori pripravuju alebo vyhodnocuju produktove poziadavky. Typicke buduce oblasti su backlog, ClickUp tasky, user stories, acceptance criteria, zakaznicky feedback, release notes a rollout checklisty.
+Ma sluzit ludom, ktori pripravuju alebo pouzivaju informacie o nabijackach a suvisiacich sluzbach: produktove navody, technicke parametre, cenniky, sluzby, servisne alebo obchodne podklady, porovnavanie variantov, zakaznicke vysvetlenia a internu KB okolo zariadeni.
 
-Tento marketplace nema byt miestom pre samotne developer implementacne pravidla. Tie patria do developer tools marketplace.
+Tento marketplace nema byt miestom pre portalove developer workflowy okolo myAgeVolt. Tie patria do `agevolt-product-myagevolt-marketplace`.
 
 Aktualny stav: pripravene ako prazdny marketplace, bez pluginov.

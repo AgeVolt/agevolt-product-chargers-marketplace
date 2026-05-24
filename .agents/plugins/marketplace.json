@@ -1,7 +1,7 @@
 {
-  "name": "agevolt-product-management-marketplace",
+  "name": "agevolt-product-chargers-marketplace",
   "interface": {
-    "displayName": "AgeVolt Product Management"
+    "displayName": "AgeVolt Product Chargers"
   },
   "plugins": []
 }
