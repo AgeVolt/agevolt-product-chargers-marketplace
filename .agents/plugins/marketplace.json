@@ -3,5 +3,18 @@
   "interface": {
     "displayName": "AgeVolt Product Chargers"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "charger-tender-bid-copilot",
+      "source": {
+        "source": "local",
+        "path": "./plugins/charger-tender-bid-copilot"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }

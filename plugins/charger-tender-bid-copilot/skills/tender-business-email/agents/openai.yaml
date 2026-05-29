@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tender Email"
+  short_description: "Obchodne tender texty."
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/logo.png"
+  brand_color: "#280046"
+  default_prompt: "Priprav sprievodny alebo follow-up email k tender ponuke na nabijacie stanice."

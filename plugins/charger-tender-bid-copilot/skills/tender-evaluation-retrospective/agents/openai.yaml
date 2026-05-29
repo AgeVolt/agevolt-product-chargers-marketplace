@@ -1,0 +1,7 @@
+interface:
+  display_name: "Tender Retrospektiva"
+  short_description: "Vyhodnotenie a poucenia."
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/logo.png"
+  brand_color: "#280046"
+  default_prompt: "Vyhodnot tender ponuku a vytiahni dovody uspechu alebo neuspechu a poucenia do KB."

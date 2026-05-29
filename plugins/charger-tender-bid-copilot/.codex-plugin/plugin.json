@@ -1,0 +1,42 @@
+{
+  "name": "charger-tender-bid-copilot",
+  "version": "0.1.0",
+  "description": "AgeVolt plugin pre tender ponuky na nabijacie stanice: review zadania, poziadavky, rizika, otazky, obchodna komunikacia, administrativna kontrola a retrospektiva.",
+  "author": {
+    "name": "AgeVolt",
+    "email": "zustiak@agevolt.com",
+    "url": "https://www.agevolt.com"
+  },
+  "homepage": "https://github.com/AgeVolt/agevolt-product-chargers-marketplace",
+  "repository": "https://github.com/AgeVolt/agevolt-product-chargers-marketplace",
+  "license": "UNLICENSED",
+  "keywords": [
+    "agevolt",
+    "chargers",
+    "tender",
+    "bid",
+    "sales",
+    "procurement"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Charger Tender Bid",
+    "shortDescription": "Tender ponuky pre nabijacky.",
+    "longDescription": "Copilot pre AgeVolt tendre na nabijacie stanice. Pomaha citat zadavaciu dokumentaciu, vytahovat kvalifikacie, poziadavky, terminy, rizika a checklist podania, pripravovat otazky alebo namietky, obchodnu komunikaciu a administrativnu kontrolu ponuky. Plugin obsahuje iba public-safe workflow pravidla; konkretne tender dokumenty, cenniky, rozpocty a zakaznicke data ostavaju v private SharePoint alebo lokalnom stagingu.",
+    "developerName": "AgeVolt",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "websiteURL": "https://www.agevolt.com",
+    "brandColor": "#280046",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "defaultPrompt": [
+      "Skontroluj tender na nabijacie stanice a priprav rizika, poziadavky a checklist podania.",
+      "Priprav otazky alebo vysvetlenie k zadavacej dokumentacii.",
+      "Priprav obchodny email alebo sprievodny text k tender ponuke."
+    ]
+  }
+}

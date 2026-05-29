@@ -1,0 +1,26 @@
+id: charger-tender-bid-copilot
+display_name: "Charger Tender Bid Copilot"
+status: active-mvp
+purpose: "Pomaha pripravovat tender ponuky na nabijacie stanice: review dokumentacie, komunikacia, otazky, administrativna kontrola a retrospektiva."
+skills:
+  - id: tender-review
+    status: active-mvp
+  - id: tender-summary-brief
+    status: active-mvp
+  - id: tender-business-email
+    status: active-mvp
+  - id: tender-clarification-objection
+    status: active-mvp
+  - id: tender-pricing-admin-check
+    status: active-mvp
+  - id: tender-evaluation-retrospective
+    status: active-mvp
+kb:
+  - tender-workflow-rules.md
+  - tender-private-kb-map.md
+  - tender-output-templates.md
+rules:
+  source_of_truth: "AI Agent/marketplaces/agevolt-product-chargers-marketplace/plugins/charger-tender-bid-copilot"
+  public_git_contains_only_public_safe_bootstrap: true
+  private_tender_documents_stay_out_of_git: true
+  no_mcp_in_v1: true
